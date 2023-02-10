@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3383445253e41c4eb109f5050c0ab27, type: 3}
+  m_Name: VaseEnding
+  m_EditorClassIdentifier: 
+  bgImage: {fileID: 21300000, guid: d4d803d2127c075498e0635127ced810, type: 3}
+  endGameText: "Feeling like the hero from your childhood favorite video game, you
+    come to the conclusion that such an expensive vessel could only be used to store
+    unfathomable riches. \r\nWith all your might, you swing at the decoration breaking
+    it in a thousand pieces but all you get is unfathomable debt to the store debt
+    for breaking his beloved family heirloom.\r\nCompletely broke, you not only did
+    not get to the party but also work part-time in the store to pay for your debt.\r\n"

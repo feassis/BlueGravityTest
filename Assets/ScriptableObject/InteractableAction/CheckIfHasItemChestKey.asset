@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f92956f34db54842b91e29c9cc588ad, type: 3}
+  m_Name: CheckIfHasItemChestKey
+  m_EditorClassIdentifier: 
+  itemName: ChestItem
+  IfHasItemAction: {fileID: 11400000, guid: 67b857a48a48cc445b72af94c010ead6, type: 2}
+  caseNegativeText: A very fancy looking chest. It is locked.
+  caseNegativeModifier: 3
+  IfHasNotItemAction: {fileID: 11400000, guid: 26083e2b851e22a4daa149f95dbe335b, type: 2}

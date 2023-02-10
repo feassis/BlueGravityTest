@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3383445253e41c4eb109f5050c0ab27, type: 3}
+  m_Name: SofaEnding
+  m_EditorClassIdentifier: 
+  bgImage: {fileID: 21300000, guid: e34639780b4e2a341826ad2a5418ee73, type: 3}
+  endGameText: "\u201CYou lay over the sofa to increase your reach, you can just
+    feel the riches waiting for you. \r\nLaying your head on the oh so comfortable
+    cushion you finally feel the metal cold touch of your awaiting fortune. \r\nPulling
+    the coin out of its hiding place, more gold coins start to spring out of the
+    inconspicuous furniture like a fountain of fortune! It feels like a dream! Because
+    it actually is.\r\nSleeping soundly on the sofa, you lost the party and made
+    the store owner very annoyed.\u201D\r\n"

@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62c9996b0749004491a20d373f46dc3, type: 3}
+  m_Name: Product Config
+  m_EditorClassIdentifier: 
+  Products:
+  - Id: 0
+    ItemName: Comfy Cap
+    ShopkeeperComment: Caps are comfortable and protect your eyes from the sun!
+    Badassery: 0
+    Coolness: 1
+    Cuteness: 0
+    Price: 20
+    ProductType: 0
+    ProductImage: {fileID: 21300000, guid: f9984c7d745783043afb86cbdea938af, type: 3}
+  - Id: 1
+    ItemName: Cowboy Hat
+    ShopkeeperComment: Howdy pardner!
+    Badassery: 1
+    Coolness: 1
+    Cuteness: 0
+    Price: 40
+    ProductType: 0
+    ProductImage: {fileID: 21300000, guid: 952124a3be134d4479b09704c9e73fbe, type: 3}
+  - Id: 2
+    ItemName: Pirate Bandana
+    ShopkeeperComment: Shiver me timbers mate!
+    Badassery: 0
+    Coolness: 2
+    Cuteness: 1
+    Price: 50
+    ProductType: 0
+    ProductImage: {fileID: 21300000, guid: f9984c7d745783043afb86cbdea938af, type: 3}
+  - Id: 3
+    ItemName: Sun Glasses
+    ShopkeeperComment: People love those shades! Especially at night!
+    Badassery: 2
+    Coolness: 2
+    Cuteness: 0
+    Price: 70
+    ProductType: 0
+    ProductImage: {fileID: 21300000, guid: 932e08cf7e3c64f40ab5b01bd1bbaca5, type: 3}
+  - Id: 4
+    ItemName: Racoon Ears
+    ShopkeeperComment: I love those ears! Made them myself!
+    Badassery: 1
+    Coolness: 0
+    Cuteness: 3
+    Price: 91
+    ProductType: 0
+    ProductImage: {fileID: 21300000, guid: f3171e2a4ea56c54f893cf0bffe042b7, type: 3}
+  - Id: 5
+    ItemName: Colorfull T-shirt
+    ShopkeeperComment: That shirt truly is modern art, huh?
+    Badassery: 0
+    Coolness: 0
+    Cuteness: 1
+    Price: 10
+    ProductType: 1
+    ProductImage: {fileID: 21300000, guid: 89bc02da3d1824749a8616904b6a4899, type: 3}
+  - Id: 6
+    ItemName: Hawaiian Shirt
+    ShopkeeperComment: Aloha!
+    Badassery: 0
+    Coolness: 1
+    Cuteness: 1
+    Price: 35
+    ProductType: 1
+    ProductImage: {fileID: 21300000, guid: 8e70d3b688f66ae46841b31fd490f141, type: 3}
+  - Id: 7
+    ItemName: Flaming Hoodie
+    ShopkeeperComment: This hoodie is comfy and makes you feel powerful!
+    Badassery: 2
+    Coolness: 0
+    Cuteness: 1
+    Price: 54
+    ProductType: 1
+    ProductImage: {fileID: 21300000, guid: 5ab9cafff5a8a054ab9c05ad812c5705, type: 3}
+  - Id: 8
+    ItemName: Anime T-Shirt
+    ShopkeeperComment: Cartoon shirts are all the rage!
+    Badassery: 0
+    Coolness: 2
+    Cuteness: 2
+    Price: 69
+    ProductType: 1
+    ProductImage: {fileID: 21300000, guid: 691af2ead74200e49900cbd7f05e525b, type: 3}
+  - Id: 9
+    ItemName: Leather Jacket
+    ShopkeeperComment: Those jackets never go out of style!
+    Badassery: 3
+    Coolness: 1
+    Cuteness: 0
+    Price: 95
+    ProductType: 1
+    ProductImage: {fileID: 21300000, guid: 53799dca95a1ed64e8e3325d7294445a, type: 3}
+  - Id: 10
+    ItemName: Ripped Jeans
+    ShopkeeperComment: Those jeans are cheaper because the more holes it has the
+      less pants there are in them!
+    Badassery: 1
+    Coolness: 0
+    Cuteness: 0
+    Price: 10
+    ProductType: 2
+    ProductImage: {fileID: 21300000, guid: 951bf4587d532f241af512e4851b520a, type: 3}
+  - Id: 11
+    ItemName: Baggy Pants
+    ShopkeeperComment: Plenty of space in those pants!
+    Badassery: 0
+    Coolness: 1
+    Cuteness: 1
+    Price: 14
+    ProductType: 2
+    ProductImage: {fileID: 21300000, guid: 548c280eafb44fb4494fef1ee5e5395e, type: 3}
+  - Id: 12
+    ItemName: Military Pants
+    ShopkeeperComment: Those pants are hard to see in the jungle!
+    Badassery: 2
+    Coolness: 1
+    Cuteness: 0
+    Price: 42
+    ProductType: 2
+    ProductImage: {fileID: 21300000, guid: 4715e13bda0d9c041a734393378d62f6, type: 3}
+  - Id: 13
+    ItemName: Cargo Pants
+    ShopkeeperComment: Comfortable and useful, those pants have the best of both
+      worlds!
+    Badassery: 2
+    Coolness: 0
+    Cuteness: 2
+    Price: 75
+    ProductType: 2
+    ProductImage: {fileID: 21300000, guid: 789fdc2f8dced424292a5bbf2541ee30, type: 3}
+  - Id: 14
+    ItemName: Hawaiian Shorts
+    ShopkeeperComment: Radical shorts, dude!
+    Badassery: 0
+    Coolness: 3
+    Cuteness: 1
+    Price: 90
+    ProductType: 2
+    ProductImage: {fileID: 21300000, guid: 7a93f9f71906ae4449cc594b718c46f7, type: 3}

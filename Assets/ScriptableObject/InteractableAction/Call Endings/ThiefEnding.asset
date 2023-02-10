@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3383445253e41c4eb109f5050c0ab27, type: 3}
+  m_Name: ThiefEnding
+  m_EditorClassIdentifier: 
+  bgImage: {fileID: 21300000, guid: fda1d4be720a28b4e907b6cb9711bd26, type: 3}
+  endGameText: For some reason, you thought that leaving without paying for your
+    products was your best course of action. It was a master plan in your mind, while
+    it was a crime in reality. You quickly got arrested by local authorities and
+    is serving your sentence. You did not arrive at the party.

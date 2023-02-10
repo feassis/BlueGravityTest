@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3383445253e41c4eb109f5050c0ab27, type: 3}
+  m_Name: MaxCoolEnding
+  m_EditorClassIdentifier: 
+  bgImage: {fileID: 21300000, guid: ae74a85abbe9e564b96d01702a466b30, type: 3}
+  endGameText: You leave the store feeling like the coolest person in town, heck,
+    in the world! So cool that you could freeze a whole lake! In fact, so cool that
+    you are actually freezing. You are engulfed by a rock of ice and thus, never
+    gets to the party to show how cool and a safety hazard you are. Thousands of
+    years later you are found by archaeologists, they think past people are way past
+    cool

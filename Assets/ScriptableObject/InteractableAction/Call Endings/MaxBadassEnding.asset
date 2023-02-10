@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3383445253e41c4eb109f5050c0ab27, type: 3}
+  m_Name: MaxBadassEnding
+  m_EditorClassIdentifier: 
+  bgImage: {fileID: 21300000, guid: 2a31d3a64d411304ebcde4dbd06b4126, type: 3}
+  endGameText: "Hell yeah! You leave the store with the confidence of someone who
+    could body the world! In the party you meet a famous movie director and kicks
+    his ass so hard that he gives you a leading role in his upcoming blockbuster
+    \u2018Sharks and Explosions"
